@@ -5,9 +5,7 @@
 
 import pyttsx3
 
-import pyttsx3.drivers.sapi5
-
-import pythoncom
+import pywin32
 
 import pywintypes
 
