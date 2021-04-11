@@ -74,6 +74,6 @@ To search something on google,say - (topic) on google
 To Search for something on youtube, say - (topic) on youtube
 
 
-###Note
+# Note
 
-##**After you press the mic button, brian will say listening, wait for 1 sec, and then pull the command**
+## **After you press the mic button, brian will say listening, wait for 1 sec, and then pull the command**
