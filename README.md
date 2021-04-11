@@ -6,7 +6,7 @@ Tkinter GUI and Speech Recognition Module
 Brian is made for **Windows Only** and requires an Internet Connection to work Properly and 
 on its full intent.
 
-![Brian](/images/brian.jpg)
+![Brian](res/images/brian.jpg)
 
 ## Requirments 
 
